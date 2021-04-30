@@ -68,7 +68,7 @@
 
 由于计算机能力实在受限，我参考了李字泽的设计模式，采取了一张网页上四张图片落落大方的模式，在此表示对于他的感谢。我在网页上分享了我从高一到大一四年之间的成长瞬间，从这些生活点滴中可以看到我的成长，这一段经历苦苦甜甜，成为我最珍贵的回忆。由于分页功能出现故障，暂时同时提供四张网页的链接。
 
-[我的网站设计](http://cancanart.github.io/My_Website.html)
-[我的网站设计](http://cancanart.github.io/My_Website1.html)
-[我的网站设计](http://cancanart.github.io/My_Website3.html)
-[我的网站设计](http://cancanart.github.io/My_Website4.html)
+[我的网站设计1](http://cancanart.github.io/My_Website.html)
+[我的网站设计2](http://cancanart.github.io/My_Website1.html)
+[我的网站设计3](http://cancanart.github.io/My_Website3.html)
+[我的网站设计4](http://cancanart.github.io/My_Website4.html)
