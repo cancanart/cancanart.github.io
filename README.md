@@ -56,6 +56,7 @@
 该作业先是利用jieba对每个段落进行分词，选取其中词性为人名('nr')的词，从而生成每个段落出现的人物列表line_name_list以及人物出现的总次数name_cnt_dict 接着建立一个字典relation_dict用于存储人物共现的关系，relation_dict的key为人名，value是字典，对line_name_list中每个元素即每一段的人物做遍历，遍历的每一个人物再遍历本段其他所有人物，得到亲密指数，统计共现次数并加到relation_dict中。最后通过pyecharts的Graph图绘制力导向图实现《三国演义》人物共现可视化。一共统计了出现次数在29次及以上的96个主要人物，并将他们互相之间的联系用圆形的人物关系连线图表示出来了。为了更加美观，设置了更加合适的排斥力。
 
 通过这张图，我们可以看出《三国演义》是一部描述三国鼎立群雄纷争的小说，因此三国之间人物关系十分复杂。可以看出蜀汉中的人物关系十分复杂，由此看出作者对于蜀汉集团的偏爱，这体现了作者“拥刘反曹”的思想倾向，体现了人民群众拥护明君的愿望。同样关系非常复杂紧密的是作为蜀汉对立面的一个典型形象是曹操：小说中的曹操既是奸雄的典型，也是暴君的象征，作品正是通过对曹操集团的针砭，体现了人民群众憎恶暴君的愿望。
+
 [《三国演义》人物关系图](http://cancanart.github.io/三国人物关系图.html)
 
 ## 6.作业六 我的搜索引擎
@@ -67,7 +68,7 @@
 
 由于计算机能力实在受限，我参考了李字泽的设计模式，采取了一张网页上四张图片落落大方的模式，在此表示对于他的感谢。我在网页上分享了我从高一到大一四年之间的成长瞬间，从这些生活点滴中可以看到我的成长，这一段经历苦苦甜甜，成为我最珍贵的回忆。由于分页功能出现故障，暂时同时提供四张网页的链接。
 
-[我的网站设计](http://cancanart.github.io/My website.html)
-[我的网站设计](http://cancanart.github.io/My website1.html)
-[我的网站设计](http://cancanart.github.io/My website3.html)
-[我的网站设计](http://cancanart.github.io/My website4.html)
+[我的网站设计](http://cancanart.github.io/My_Website.html)
+[我的网站设计](http://cancanart.github.io/My_Website1.html)
+[我的网站设计](http://cancanart.github.io/My_Website3.html)
+[我的网站设计](http://cancanart.github.io/My_Website4.html)
