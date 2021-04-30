@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Zapfino';
+    src: url(./font/Zapfino.ttf) format('truetype');
+}
+h1
+{
+    color:green;
+    text-align: center;
+    font: normal bold 50px 'Arial'
+}
+h2
+{
+    color: blueviolet;
+    text-align: center;
+    font: normal bold 30px 'Arial';
+}
+.left-div
+{
+    position: relative;
+    float: left;
+    width: 45%;
+    height: 50%;
+    left: 3%;;
+}
+.right-div
+{
+    position: relative;
+    float: right;
+    width: 45%;
+    height: 50%;
+    right: 3%;
+}
+.row-div
+{
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 100%
+}
+.eng-text
+{
+    text-align: center;
+    color: blue;
+    font: italic bold 15px 'Zapfino';
+}
+.chi-text
+{
+    text-align: center;
+    color: red;
+    font: italic bold 25px 'STXingkai';
+}
+.displayed-img
+{
+    width: 100%;
+    height: 100%;
+}
